@@ -1,7 +1,7 @@
 BY: Mika#5855
-DISCORD: https://discord.gg/8gmRVnRRwV
+# DISCORD: https://discord.gg/8gmRVnRRwV
 
-DO NOT ATTACK GOV WEBSITE !
+# DO NOT ATTACK GOV WEBSITE !
  
 CMD
 
