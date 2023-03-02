@@ -1,1 +1,7 @@
-# DDOS-L7
+DO NOT ATTACK GOV WEBSITE !
+
+
+ CMD
+
+cd NUDOS
+python3 NUDOS1.3..py
