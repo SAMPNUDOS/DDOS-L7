@@ -1,4 +1,4 @@
-![gameplay](./Desktop/Capture)
+
 
 BY: Mika#5855
 # DISCORD: https://discord.gg/8gmRVnRRwV
