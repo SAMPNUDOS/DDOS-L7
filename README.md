@@ -8,6 +8,9 @@ BY: Mika#5855
 CMD
 
 git clone https://github.com/SAMPNUDOS/DDOS-L7
- cd NUDOS
- python3 nudos.py
- python3 NUDOS1.3.py
+
+cd NUDOS
+
+python3 nudos.py
+
+python3 NUDOS1.3.py
