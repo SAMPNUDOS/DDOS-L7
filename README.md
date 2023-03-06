@@ -1,3 +1,5 @@
+![gameplay](./desktop/Capture.png)
+
 BY: Mika#5855
 # DISCORD: https://discord.gg/8gmRVnRRwV
 
