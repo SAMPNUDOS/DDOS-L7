@@ -17,4 +17,7 @@ python3 nudos.py
 
 python3 NUDOS1.4.py
 
+Username : nudos
+
+Pass : nudos
 
