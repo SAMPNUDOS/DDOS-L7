@@ -1059,7 +1059,7 @@ def help():
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"L4        "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)"+Fore.LIGHTRED_EX+"                       ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"exit      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" NUDOS GG"+Fore.LIGHTRED_EX+"                              ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"NUMBER    "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" 09212121212"+Fore.LIGHTRED_EX+"                           ║\n")
-    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"TOOL      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+"Tool                                  "+Fore.LIGHTRED_EX+" ║\n")
+    stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"TOOL      "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" Tool                                  "+Fore.LIGHTRED_EX+"║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"Sever     "+Fore.LIGHTGREEN_EX+"|"+Fore.LIGHTWHITE_EX+" https://discord.gg/8gmRVnRRwV        "+Fore.LIGHTRED_EX+" ║\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╚═════════════════════════════════════════════════════╝\n")
     stdout.write("\n")
