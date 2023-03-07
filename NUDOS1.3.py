@@ -22,6 +22,20 @@ def countdown(t):
             stdout.write("\r "+Fore.MAGENTA+"[*]"+Fore.WHITE+" Attack Done !                                   \n")
             return
 
+attemps = 0
+
+while attemps < 100:
+    username = input('Enter your username: ')
+    password = input('Enter your password: ')
+
+    if username == 'nudos123' and password == 'nudos123':
+        print('You have successfully logged in.')
+        break
+    else:
+        print('Incorrect credentials. Check if you have Caps lock on and try again.')
+        attemps += 1
+        continue
+
 
 #ua
 useragents=["Mozilla/5.0 (Android; Linux armv7l; rv:10.0.1) Gecko/20100101 Firefox/10.0.1 Fennec/10.0.1",
@@ -1080,7 +1094,7 @@ def layer7():
 
                     ╔═╗╔═╗╔╦╗╔═╗  ╔╗╔╦ ╦╔╦╗╔═╗╔═╗
                     ╚═╗╠═╣║║║╠═╝  ║║║║ ║ ║║║ ║╚═╗
-                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.3 """)
+                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.4 """)
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")    
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"nudos"+Fore.LIGHTRED_EX+"     |"+Fore.LIGHTWHITE_EX+" DDoS     (VIP)              "+Fore.LIGHTRED_EX+"║\n")     
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"nudos2   "+Fore.LIGHTRED_EX+" |"+Fore.LIGHTWHITE_EX+" DDoS    (Basic)             "+Fore.LIGHTRED_EX+"║\n")                    
@@ -1099,7 +1113,7 @@ def layer4():
 
                     ╔═╗╔═╗╔╦╗╔═╗  ╔╗╔╦ ╦╔╦╗╔═╗╔═╗
                     ╚═╗╠═╣║║║╠═╝  ║║║║ ║ ║║║ ║╚═╗
-                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.3 """)
+                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.4 """)
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTRED_EX            +"║ \x1b[38;2;255;20;147m• "+Fore.LIGHTWHITE_EX+"NUDOSL4   "+Fore.LIGHTRED_EX+"|"+Fore.LIGHTWHITE_EX+" DDoS L4 (Basic)                    "+Fore.LIGHTRED_EX+"║\n")
@@ -1132,7 +1146,7 @@ def title():
 
                     ╔═╗╔═╗╔╦╗╔═╗  ╔╗╔╦ ╦╔╦╗╔═╗╔═╗
                     ╚═╗╠═╣║║║╠═╝  ║║║║ ║ ║║║ ║╚═╗
-                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.3 """)                                                                                                                                                                                                                                                                      
+                    ╚═╝╩ ╩╩ ╩╩    ╝╚╝╚═╝═╩╝╚═╝╚═╝ VERSION 1.4 """)                                                                                                                                                                                                                                                                      
     stdout.write("             "+Fore.LIGHTRED_EX            +"        ══╦═════════════════════════════════╦══\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"╔═════════╩═════════════════════════════════╩═════════╗\n")
     stdout.write("             "+Fore.LIGHTRED_EX+"║ "+Fore.LIGHTWHITE_EX   +"    Sever Discord : https://discord.gg/8gmRVnRRwV  "+Fore.LIGHTRED_EX  +" ║\n")
