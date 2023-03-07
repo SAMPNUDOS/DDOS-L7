@@ -1359,18 +1359,4 @@ if __name__ == '__main__':
     while True:
         command()
 
-#### Login       
 
-attemps = 0
-
-while attemps < 100:
-    username = input('Enter your username: ')
-    password = input('Enter your password: ')
-
-    if username == 'SAMPNUDOS123' and password == 'SAMPNUDOS123':
-        print('You have successfully logged in Welcome to NUDOS!!')
-        break
-    else:
-        print('Incorrect credentials. Check if you have Caps lock on and try again.')
-        attemps += 1
-        continue
