@@ -11,7 +11,7 @@ CMD
 
 git clone https://github.com/SAMPNUDOS/DDOS-L7
 
-cd NUDOS
+cd DDOS-L7
 
 python3 nudos.py
 
