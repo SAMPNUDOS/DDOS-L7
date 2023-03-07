@@ -16,3 +16,7 @@ cd DDOS-L7
 python3 nudos.py
 
 python3 NUDOS1.3.py
+
+Username: SAMPNUDOS123
+
+Password: SAMPNUDOS123
